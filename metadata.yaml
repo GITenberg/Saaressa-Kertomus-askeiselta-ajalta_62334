@@ -1,5 +1,8 @@
 _repo: Saaressa-Kertomus-askeiselta-ajalta_62334
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Soini, Lauri
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42573
     wikipedia: https://fi.wikipedia.org/wiki/Lauri_Soini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62334#Saaressa-Kertomus-askeiselta-ajalta
 gutenberg_issued: '2020-06-07'
 gutenberg_type: Text
 identifiers:
